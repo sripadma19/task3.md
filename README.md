@@ -66,12 +66,4 @@ riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
 
 
 
-gcc sum1ton.c
-![image](https://github.com/sripadma19/task3.md/assets/161410141/35e7da63-0405-46a5-95c2-22f7ad0e1748)
-
-Step 5: Check the output by using the command
-
-./a.out
-
-
 
